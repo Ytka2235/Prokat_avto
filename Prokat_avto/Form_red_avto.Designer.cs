@@ -168,7 +168,6 @@
             this.Name = "Form_red_avto";
             this.Text = "Form_red_avto";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form_red_avto_FormClosed);
-            this.Load += new System.EventHandler(this.Form_red_avto_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

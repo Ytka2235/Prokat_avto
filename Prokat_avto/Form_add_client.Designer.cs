@@ -42,7 +42,6 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(424, 22);
             this.textBox2.TabIndex = 32;
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // textBox1
             // 
@@ -50,7 +49,6 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(424, 22);
             this.textBox1.TabIndex = 31;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label4
             // 
@@ -60,7 +58,6 @@
             this.label4.Size = new System.Drawing.Size(97, 16);
             this.label4.TabIndex = 28;
             this.label4.Text = "Введите ФИО";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label3
             // 
@@ -70,7 +67,6 @@
             this.label3.Size = new System.Drawing.Size(107, 16);
             this.label3.TabIndex = 27;
             this.label3.Text = "Введите номер";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // button2
             // 

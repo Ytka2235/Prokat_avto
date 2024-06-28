@@ -1,8 +1,6 @@
 ﻿
 using System;
 using System.Data.SqlClient;
-using System.Drawing;
-using System.Reflection;
 using System.Windows.Forms;
 
 namespace Prokat_avto
@@ -305,7 +303,5 @@ namespace Prokat_avto
             }
         }
     }
-
-
 
 }

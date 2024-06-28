@@ -69,10 +69,5 @@ namespace Prokat_avto
             form.Enabled = true;
             form.full_avto();
         }
-
-        private void Form_red_avto_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
